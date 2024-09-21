@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sun-bright-main1/static/css/main.541af16e.css",
-    "main.js": "/sun-bright-main1/static/js/main.1c1ec499.js",
+    "main.js": "/sun-bright-main1/static/js/main.0b53e39a.js",
     "static/media/fa-solid-900.svg": "/sun-bright-main1/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/fa-brands-400.svg": "/sun-bright-main1/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
     "static/media/fa-solid-900.eot": "/sun-bright-main1/static/media/fa-solid-900.9bbb245e67a133f6e486.eot",
@@ -29,10 +29,10 @@
     "static/media/slick.woff": "/sun-bright-main1/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/sun-bright-main1/index.html",
     "main.541af16e.css.map": "/sun-bright-main1/static/css/main.541af16e.css.map",
-    "main.1c1ec499.js.map": "/sun-bright-main1/static/js/main.1c1ec499.js.map"
+    "main.0b53e39a.js.map": "/sun-bright-main1/static/js/main.0b53e39a.js.map"
   },
   "entrypoints": [
     "static/css/main.541af16e.css",
-    "static/js/main.1c1ec499.js"
+    "static/js/main.0b53e39a.js"
   ]
 }
