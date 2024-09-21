@@ -1,41 +1,41 @@
 export const ShopItems = [
   {
     url: "/shop-details",
-    src: "/img/All sun light/Chemical/1.webp",
+    src: "./img/All sun light/Chemical/1.webp",
     title: "Airfreshner 300ml Glade ",
   },
   {
     url: "/shop-details",
-    src: "/img/All sun light/Chemical/2.webp",
+    src: "./img/All sun light/Chemical/2.webp",
     tag: "Plumbing",
     title: "Airfreshner 300ml Airwick",
     price: 16,
   },
   {
     url: "/shop-details",
-    src: "/img/All sun light/Chemical/3.webp",
+    src: "./img/All sun light/Chemical/3.webp",
     tag: "Plumbing",
     title: "Airfreshner 300ml Enviro Oasis",
     price: 32,
   },
   {
     url: "/shop-details",
-    src: "/img/All sun light/Chemical/4.webp",
+    src: "./img/All sun light/Chemical/4.webp",
     tag: "Plumbing",
     title: "Airfreshner 250ml Auto Airwick",
     price: 28.5,
   },
   
   {
-    src: "/img/All sun light/Chemical/5.webp",
+    src: "./img/All sun light/Chemical/5.webp",
     title: "Airfreshner 250ml Auto Enviro Oasis",
   },
   {
-    src: "/img/All sun light/Chemical/6.webp",
+    src: "./img/All sun light/Chemical/6.webp",
     title: "Airfreshner 250ml Auto Enviro Oasis",
   },
   {
-    src: "/img/All sun light/Chemical/7.webp",
+    src: "./img/All sun light/Chemical/7.webp",
     title: "Steel Polish 400ml Enviro Oasis",
   },
   {
